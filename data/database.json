@@ -768,6 +768,51 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "Google 硬件发布会回顾：Gemini 分量管饱，AI 体验保真",
+                "link": "https://sspai.com/post/91450",
+                "published": "2024-08-14"
+            },
+            {
+                "title": "派早报：Google 发布 Pixel 9 系列等多款新品、Pantone 7 发布等",
+                "link": "https://sspai.com/post/91445",
+                "published": "2024-08-14"
+            },
+            {
+                "title": "家庭居酒屋备货指南：基酒篇",
+                "link": "https://sspai.com/prime/story/izakaya-at-home-base",
+                "published": "2024-08-13"
+            },
+            {
+                "title": "蝴蝶终飞去：蝶式键盘的前世今生",
+                "link": "https://sspai.com/post/91242",
+                "published": "2024-08-13"
+            },
+            {
+                "title": "App+1 | 16 年前「没人玩」的游戏，续作也不按套路走：粘粘世界 2",
+                "link": "https://sspai.com/post/91358",
+                "published": "2024-08-13"
+            },
+            {
+                "title": "装满数字生活与青春：我的背包进化史",
+                "link": "https://sspai.com/post/91356",
+                "published": "2024-08-13"
+            },
+            {
+                "title": "派早报：TOM 邮箱将停止免费邮箱服务，蓝洞收购《完美音浪》开发商等",
+                "link": "https://sspai.com/post/91414",
+                "published": "2024-08-13"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/91399",
+                "published": "2024-08-12"
+            },
+            {
+                "title": "自古逢秋多爆料，今年谷产格外早：Google 秋季硬件发布会前瞻",
+                "link": "https://sspai.com/post/91385",
+                "published": "2024-08-12"
+            },
+            {
                 "title": "我心中的巴黎奥运会之最——一个线上观众的时差两周的盘点",
                 "link": "https://sspai.com/post/91360",
                 "published": "2024-08-12"
@@ -20843,7 +20888,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 9
     },
     {
         "id": 2,
@@ -51299,6 +51344,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "从零开始制作一个属于你自己的GPU | 基于FPGA的图形加速器实现原理",
+                "link": "http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-14"
+            },
+            {
+                "title": "本届奥运会上有没有人完成，足以吊打一个时代的成就？",
+                "link": "http://www.zhihu.com/question/664002660/answer/3590919116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-12"
+            },
+            {
                 "title": "幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？",
                 "link": "http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-09"
@@ -60639,7 +60694,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 2
     },
     {
         "id": 4,
