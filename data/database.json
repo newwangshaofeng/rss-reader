@@ -5,6 +5,11 @@
         "url": "http://www.ruanyifeng.com/blog/atom.xml",
         "feeds": [
             {
+                "title": "科技爱好者周刊（第 313 期）：如果新加坡没有空调",
+                "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html",
+                "published": "2024-08-16"
+            },
+            {
                 "title": "科技爱好者周刊（第 312 期）：从英特尔看\"美国制造\"",
                 "link": "http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html",
                 "published": "2024-08-09"
@@ -760,13 +765,38 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 1
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "关于猴痘病毒，你现在需要了解这些",
+                "link": "https://sspai.com/post/74231",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "派早报：Beats Studio Pro 推出 Kim 特别版新配色等",
+                "link": "https://sspai.com/post/91515",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事",
+                "link": "https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae",
+                "published": "2024-08-15"
+            },
+            {
+                "title": "新玩意 191｜少数派的编辑们最近买了啥？",
+                "link": "https://sspai.com/post/91507",
+                "published": "2024-08-15"
+            },
+            {
+                "title": "不当赛博文盲，N 个常见问题解决方案不求人",
+                "link": "https://sspai.com/post/91469",
+                "published": "2024-08-15"
+            },
             {
                 "title": "长辈们的健康也能被量化：聊聊《中国健康老年人标准》",
                 "link": "https://sspai.com/post/91412",
@@ -20908,7 +20938,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -51364,6 +51394,11 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇",
+                "link": "http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-15"
+            },
+            {
                 "title": "创业一年，人间三年",
                 "link": "http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-14"
@@ -60724,7 +60759,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 4,
