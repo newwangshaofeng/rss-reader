@@ -765,13 +765,28 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "《黑神话：悟空》评测：敢问路在何方，路在脚下",
+                "link": "https://sspai.com/post/91560",
+                "published": "2024-08-17"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 7 部作品",
+                "link": "https://sspai.com/post/91553",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案",
+                "link": "https://sspai.com/post/91248",
+                "published": "2024-08-16"
+            },
             {
                 "title": "关于猴痘病毒，你现在需要了解这些",
                 "link": "https://sspai.com/post/74231",
@@ -20938,7 +20953,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 3
     },
     {
         "id": 2,
@@ -51394,6 +51409,16 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "电影类型拓荒者乌尔善 一直在勇于试错的路上",
+                "link": "http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-16"
+            },
+            {
+                "title": "侠盗猎车手（GTA）5通关后，还能怎么玩，或者说还有哪些有趣的事情可以做？",
+                "link": "http://www.zhihu.com/question/31333146/answer/2849644674?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-08-16"
+            },
+            {
                 "title": "我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇",
                 "link": "http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-08-15"
@@ -60759,7 +60784,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 2
     },
     {
         "id": 4,
