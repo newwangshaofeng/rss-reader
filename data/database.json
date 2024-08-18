@@ -773,6 +773,16 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "不买可以先收藏 15：如何做一锅好吃的米饭",
+                "link": "https://sspai.com/post/91338",
+                "published": "2024-08-18"
+            },
+            {
+                "title": "从游泳、骑行到跑步：浅析奥运金牌背后的科技变革",
+                "link": "https://sspai.com/post/91394",
+                "published": "2024-08-17"
+            },
+            {
                 "title": "《黑神话：悟空》评测：敢问路在何方，路在脚下",
                 "link": "https://sspai.com/post/91560",
                 "published": "2024-08-17"
@@ -20953,7 +20963,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 2
     },
     {
         "id": 2,
@@ -60784,7 +60794,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 0
     },
     {
         "id": 4,

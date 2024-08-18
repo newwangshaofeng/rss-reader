@@ -3,9 +3,9 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+3】
+* [少数派](#少数派) 【+2】
 * [V2EX](#V2EX) 【+50】
-* [知乎每日精选](#知乎每日精选) 【+2】
+* [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
 
 ## 文章链接
@@ -35,6 +35,8 @@
     </summary>
 
 
+* [【2024-08-18】 不买可以先收藏 15：如何做一锅好吃的米饭](https://sspai.com/post/91338)
+* [【2024-08-17】 从游泳、骑行到跑步：浅析奥运金牌背后的科技变革](https://sspai.com/post/91394)
 * [【2024-08-17】 《黑神话：悟空》评测：敢问路在何方，路在脚下](https://sspai.com/post/91560)
 * [【2024-08-16】 本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/91553)
 * [【2024-08-16】 让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案](https://sspai.com/post/91248)
@@ -43,8 +45,6 @@
 * [【2024-08-15】 2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事](https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae)
 * [【2024-08-15】 新玩意 191｜少数派的编辑们最近买了啥？](https://sspai.com/post/91507)
 * [【2024-08-15】 不当赛博文盲，N 个常见问题解决方案不求人](https://sspai.com/post/91469)
-* [【2024-08-15】 长辈们的健康也能被量化：聊聊《中国健康老年人标准》](https://sspai.com/post/91412)
-* [【2024-08-15】 派早报：Apple 确认将开放 NFC 功能、SteamOS 将支持第三方掌机等](https://sspai.com/post/91485)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2024-08-17 05:07:29
+:alarm_clock: 更新时间: 2024-08-18 05:06:59
