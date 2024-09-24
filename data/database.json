@@ -803,6 +803,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "电脑日语输入简明指南",
+                "link": "https://sspai.com/post/92346",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "派早报：微软弃用 WSUS 更新服务，工信部调整汽车制动系统国标意见等",
+                "link": "https://sspai.com/post/92498",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "派评 | 近期值得关注的 App",
+                "link": "https://sspai.com/post/92490",
+                "published": "2024-09-23"
+            },
+            {
+                "title": "BlackBerry 10 的最后时光与 RIM 的全面转向",
+                "link": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-6",
+                "published": "2024-09-23"
+            },
+            {
                 "title": "如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录",
                 "link": "https://sspai.com/post/92306",
                 "published": "2024-09-23"
@@ -52064,6 +52084,21 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "如何评价游戏《废土3》？",
+                "link": "http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-23"
+            },
+            {
+                "title": "有人可以把《战锤2：全面战争》的背景故事和人物关系讲清楚吗？",
+                "link": "http://www.zhihu.com/question/463856156/answer/1937948036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-23"
+            },
+            {
+                "title": "OpenAI o1 self-play RL 技术路线推演",
+                "link": "http://zhuanlan.zhihu.com/p/720106482?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-23"
+            },
+            {
                 "title": "给独立游戏制作人的进阶建议",
                 "link": "http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-20"
@@ -61614,7 +61649,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 0
+        "new_feeds": 3
     },
     {
         "id": 4,
