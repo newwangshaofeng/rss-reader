@@ -803,6 +803,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "一日一技 | 用 Tasker 切换三星「即圈即搜」搜索源",
+                "link": "https://sspai.com/post/92193",
+                "published": "2024-09-25"
+            },
+            {
+                "title": "派早报：iQOO Z9 Turbo+、华为 WATCH GT 5 系列发布等",
+                "link": "https://sspai.com/post/92527",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "社区速递 062 | 你没见过的社区文章、一周最热评、派友给大学新生的贴士",
+                "link": "https://sspai.com/post/92508",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "写在闲鱼收取普遍服务费后，闲置交易平台的用户体验变化了吗？",
+                "link": "https://sspai.com/post/92423",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "采访 | 好用不伤手的秘密！我们和 Slice CEO 聊了聊",
+                "link": "https://sspai.com/post/92489",
+                "published": "2024-09-24"
+            },
+            {
                 "title": "电脑日语输入简明指南",
                 "link": "https://sspai.com/post/92346",
                 "published": "2024-09-24"
@@ -21628,7 +21653,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
@@ -52084,6 +52109,31 @@
         "url": "https://www.zhihu.com/rss",
         "feeds": [
             {
+                "title": "Reverse-o1:OpenAI o1原理逆向工程图解",
+                "link": "http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-25"
+            },
+            {
+                "title": "你一直坚持热爱的事情是什么？坚持了多久？",
+                "link": "http://www.zhihu.com/question/23473414/answer/3634688765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "中国制造能否诞生「奢侈品」？",
+                "link": "http://www.zhihu.com/question/19825959/answer/3634614274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "独立游戏在中国 插曲：手游版号办理完全攻略",
+                "link": "http://zhuanlan.zhihu.com/p/24856060?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-24"
+            },
+            {
+                "title": "如何评价《黑神话：悟空》这款游戏？它到底好不好玩？",
+                "link": "http://www.zhihu.com/question/664775480/answer/3634435096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+                "published": "2024-09-24"
+            },
+            {
                 "title": "如何评价游戏《废土3》？",
                 "link": "http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
                 "published": "2024-09-23"
@@ -61649,7 +61699,7 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 3
+        "new_feeds": 5
     },
     {
         "id": 4,
