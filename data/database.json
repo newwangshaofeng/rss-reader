@@ -823,6 +823,21 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：华为发布 HarmonyOS NEXT 及多款硬件新品等",
+                "link": "https://sspai.com/post/93130",
+                "published": "2024-10-23"
+            },
+            {
+                "title": "AI 而不得，未来可期：iPad mini (A17 Pro) 首发体验",
+                "link": "https://sspai.com/post/93112",
+                "published": "2024-10-22"
+            },
+            {
+                "title": "社区速递 065 | 你没见过的社区文章、一周最热评、派友的音频听文",
+                "link": "https://sspai.com/post/93114",
+                "published": "2024-10-22"
+            },
+            {
                 "title": "学会配置 Fontconfig，让 Linux 中文字体更顺心",
                 "link": "https://sspai.com/post/92955",
                 "published": "2024-10-22"
@@ -22073,7 +22088,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 3
     },
     {
         "id": 2,
