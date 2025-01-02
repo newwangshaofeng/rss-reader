@@ -883,6 +883,36 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "坦桑尼亚游记（上）：在国家公园见证《动物世界》",
+                "link": "https://sspai.com/post/95191",
+                "published": "2025-01-02"
+            },
+            {
+                "title": "派早报：Apple TV+ 即将开启新年免费体验、LineageOS 发布 22.1 更新等",
+                "link": "https://sspai.com/post/95317",
+                "published": "2025-01-02"
+            },
+            {
+                "title": "回顾 2024 影视佳作，来为你心中的「年度最佳」颁奖吧！",
+                "link": "https://sspai.com/post/95260",
+                "published": "2025-01-01"
+            },
+            {
+                "title": "今年的最后一天，我们邀请你给 TA 起个名",
+                "link": "https://sspai.com/post/95285",
+                "published": "2024-12-31"
+            },
+            {
+                "title": "社区速递 075 | 你没见过的社区文章、一周最热评、派友十一月买了啥",
+                "link": "https://sspai.com/post/95292",
+                "published": "2024-12-31"
+            },
+            {
+                "title": "本月玩什么 | 夺宝奇兵、LOK Digital、纪念碑谷 3",
+                "link": "https://sspai.com/post/95276",
+                "published": "2024-12-31"
+            },
+            {
                 "title": "我们开业了！暨「白日梦」音乐影像分享会",
                 "link": "https://sspai.com/post/95253",
                 "published": "2024-12-31"
@@ -23358,7 +23388,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 6
     },
     {
         "id": 2,
