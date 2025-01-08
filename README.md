@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-08】 消费降级也别踩坑：10 年闲鱼玩家的经验分享](https://sspai.com/post/92179)
+* [【2025-01-08】 派早报：RTX 50 系显卡发布等](https://sspai.com/post/95464)
+* [【2025-01-07】 少数派共创的下一步：和你喜爱的 IP 共同创造](https://sspai.com/post/95434)
+* [【2025-01-07】 社区速递 076 | 你没见过的社区文章、一周最热评、派友的年度应用](https://sspai.com/post/95450)
+* [【2025-01-07】 在加纳：城市、乡村、食物与人](https://sspai.com/post/95401)
 * [【2025-01-07】 能坚持下去的时间记录怎么做？为此我开发了一款 app](https://sspai.com/post/94606)
 * [【2025-01-07】 派早报：CES 2025 的新品等](https://sspai.com/post/95427)
 * [【2025-01-06】 派评 | 近期值得关注的 App](https://sspai.com/post/95414)
 * [【2025-01-06】 城市漫步指南：在闽南感受海风和烟火气](https://sspai.com/post/94376)
 * [【2025-01-06】 我的 2024：「未知数 X」和情绪的事件分析法](https://sspai.com/post/95383)
-* [【2025-01-06】 派早报：以旧换新将「加力扩围」](https://sspai.com/post/95398)
-* [【2025-01-04】 FM3.14 | 这 21 张唱片是我 2024 年发现的宝藏](https://sspai.com/post/95336)
-* [【2025-01-03】 装了啥特别篇：少数派编辑部的 2024 年度工具之选](https://sspai.com/prime/story/zhuanglesha-250103)
-* [【2025-01-03】 本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95355)
-* [【2025-01-03】 本地大模型之路（二）：了解模型能力与性能需求，让硬件选购恰到好处](https://sspai.com/post/95262)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-07 05:01:06
+:alarm_clock: 更新时间: 2025-01-08 05:01:00

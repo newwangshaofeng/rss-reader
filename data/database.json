@@ -888,6 +888,31 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "消费降级也别踩坑：10 年闲鱼玩家的经验分享",
+                "link": "https://sspai.com/post/92179",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "派早报：RTX 50 系显卡发布等",
+                "link": "https://sspai.com/post/95464",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "少数派共创的下一步：和你喜爱的 IP 共同创造",
+                "link": "https://sspai.com/post/95434",
+                "published": "2025-01-07"
+            },
+            {
+                "title": "社区速递 076 | 你没见过的社区文章、一周最热评、派友的年度应用",
+                "link": "https://sspai.com/post/95450",
+                "published": "2025-01-07"
+            },
+            {
+                "title": "在加纳：城市、乡村、食物与人",
+                "link": "https://sspai.com/post/95401",
+                "published": "2025-01-07"
+            },
+            {
                 "title": "能坚持下去的时间记录怎么做？为此我开发了一款 app",
                 "link": "https://sspai.com/post/94606",
                 "published": "2025-01-07"
@@ -23468,7 +23493,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 5
     },
     {
         "id": 2,
