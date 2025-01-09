@@ -888,6 +888,26 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "派早报：Getty Images 将与 Shutterstock 合并、购买手机等产品将获得 15% 补贴等",
+                "link": "https://sspai.com/post/95497",
+                "published": "2025-01-09"
+            },
+            {
+                "title": "少数派办公室断电的那段日子，供电全部都靠它",
+                "link": "https://sspai.com/post/94960",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "春节来点「科技年货」送人送己，少数派年终大促销",
+                "link": "https://sspai.com/post/95456",
+                "published": "2025-01-08"
+            },
+            {
+                "title": "2025 春运买票指北：乡愁愈烈，莫添烦恼",
+                "link": "https://sspai.com/post/86328",
+                "published": "2025-01-08"
+            },
+            {
                 "title": "消费降级也别踩坑：10 年闲鱼玩家的经验分享",
                 "link": "https://sspai.com/post/92179",
                 "published": "2025-01-08"
@@ -23493,7 +23513,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 5
+        "new_feeds": 4
     },
     {
         "id": 2,
