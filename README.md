@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+4】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+5】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-01-10】 科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
 * [【2025-01-03】 科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 * [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 * [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
@@ -25,7 +26,6 @@
 * [【2024-11-29】 科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
 * [【2024-11-22】 科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
 * [【2024-11-15】 科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
-* [【2024-11-08】 科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-01-10】 [送码] App+1｜我的人脉资源尽在掌握：WOLB](https://sspai.com/post/94869)
+* [【2025-01-10】 派早报：淘宝推出「送礼物」功能、大疆发布 DJI Matrice 4 系列多光旗舰无人机](https://sspai.com/post/95524)
+* [【2025-01-09】 新玩意 200｜少数派的编辑们最近买了啥？](https://sspai.com/post/95517)
+* [【2025-01-09】 看地下偶像：见证自由、反抗、热爱和救赎](https://sspai.com/post/95491)
+* [【2025-01-09】 看《网络谜踪》知晓如何避免被「网络寻踪」](https://sspai.com/post/94414)
 * [【2025-01-09】 派早报：Getty Images 将与 Shutterstock 合并、购买手机等产品将获得 15% 补贴等](https://sspai.com/post/95497)
 * [【2025-01-08】 少数派办公室断电的那段日子，供电全部都靠它](https://sspai.com/post/94960)
 * [【2025-01-08】 春节来点「科技年货」送人送己，少数派年终大促销](https://sspai.com/post/95456)
 * [【2025-01-08】 2025 春运买票指北：乡愁愈烈，莫添烦恼](https://sspai.com/post/86328)
 * [【2025-01-08】 消费降级也别踩坑：10 年闲鱼玩家的经验分享](https://sspai.com/post/92179)
-* [【2025-01-08】 派早报：RTX 50 系显卡发布等](https://sspai.com/post/95464)
-* [【2025-01-07】 少数派共创的下一步：和你喜爱的 IP 共同创造](https://sspai.com/post/95434)
-* [【2025-01-07】 社区速递 076 | 你没见过的社区文章、一周最热评、派友的年度应用](https://sspai.com/post/95450)
-* [【2025-01-07】 在加纳：城市、乡村、食物与人](https://sspai.com/post/95401)
-* [【2025-01-07】 能坚持下去的时间记录怎么做？为此我开发了一款 app](https://sspai.com/post/94606)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-01-09 05:01:06
+:alarm_clock: 更新时间: 2025-01-10 05:00:57
