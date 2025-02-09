@@ -905,13 +905,33 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "构建一个跨平台音画交互 App: ælbum",
+                "link": "https://sspai.com/post/96017",
+                "published": "2025-02-09"
+            },
+            {
+                "title": "与其重复「新年计划」的失败，不如反思「新年目标」是否恰当",
+                "link": "https://sspai.com/post/95907",
+                "published": "2025-02-08"
+            },
+            {
+                "title": "本周看什么 | 最近值得一看的 8 部作品",
+                "link": "https://sspai.com/post/96134",
+                "published": "2025-02-07"
+            },
+            {
+                "title": "2025 年回望「红警 2」：一代人的启蒙之作，如何成为游戏文化？",
+                "link": "https://sspai.com/post/96002",
+                "published": "2025-02-07"
+            },
             {
                 "title": "2024 健康备忘录：从高心率通知到身心的重启之路",
                 "link": "https://sspai.com/post/96060",

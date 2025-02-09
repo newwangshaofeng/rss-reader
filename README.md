@@ -2,7 +2,7 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [阮一峰的网络日志](#阮一峰的网络日志)
 * [少数派](#少数派) 【+4】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
@@ -35,16 +35,16 @@
     </summary>
 
 
+* [【2025-02-09】 构建一个跨平台音画交互 App: ælbum](https://sspai.com/post/96017)
+* [【2025-02-08】 与其重复「新年计划」的失败，不如反思「新年目标」是否恰当](https://sspai.com/post/95907)
+* [【2025-02-07】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/96134)
+* [【2025-02-07】 2025 年回望「红警 2」：一代人的启蒙之作，如何成为游戏文化？](https://sspai.com/post/96002)
 * [【2025-02-07】 2024 健康备忘录：从高心率通知到身心的重启之路](https://sspai.com/post/96060)
 * [【2025-02-06】 派早报：奥之心发布 OM-3 相机、任天堂 Switch 2 直面会定档等](https://sspai.com/post/96118)
 * [【2025-02-06】 新玩意 202｜少数派的编辑们最近买了啥？](https://sspai.com/post/96096)
 * [【2025-02-06】 一日一技 | 趁系统一个不注意，给 Pixel 9 系列开 5G](https://sspai.com/post/96068)
 * [【2025-02-06】 副业淘宝小店，给了我看世界的另一个视角](https://sspai.com/post/95152)
 * [【2025-02-06】 派早报：iPhone 上调 AppleCare+ 费用、华硕发布 ROG Phone 9 FE 等](https://sspai.com/post/96081)
-* [【2025-02-05】 如何用快捷指令制作「动态进度条」](https://sspai.com/prime/story/dynamic-progress-bar-shortcuts)
-* [【2025-02-05】 从理论到实践：我的 2024 小红书商业观察报告](https://sspai.com/post/96058)
-* [【2025-02-05】 先于时代，终于悲歌：十年之际，再谈 The New MacBook](https://sspai.com/post/95708)
-* [【2025-02-05】 译文 | 正则表达式的真正实力](https://sspai.com/post/96034)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-07 05:01:08
+:alarm_clock: 更新时间: 2025-02-09 05:00:53
