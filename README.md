@@ -2,8 +2,8 @@
 
 ## 来源分类
 
-* [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+6】
+* [阮一峰的网络日志](#阮一峰的网络日志) 【+1】
+* [少数派](#少数派) 【+10】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -16,6 +16,7 @@
     </summary>
 
 
+* [【2025-02-14】 科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html)
 * [【2025-02-07】 科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
 * [【2025-01-24】 科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 * [【2025-01-17】 科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
@@ -25,7 +26,6 @@
 * [【2024-12-27】 科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 * [【2024-12-20】 科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 * [【2024-12-13】 科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
-* [【2024-12-06】 科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
 * [:arrow_forward: 全部文章](data/阮一峰的网络日志.md)
 </details>
 
@@ -35,16 +35,16 @@
     </summary>
 
 
-* [【2025-02-12】 从深圳北上 4200 公里，我决定带着 vivo X200 Pro 去「逆行」](https://sspai.com/post/96234)
-* [【2025-02-12】 派早报：Beats 推出 Powerbeats Pro 2 等](https://sspai.com/post/96256)
-* [【2025-02-11】 无线充电、心率监测、H2 芯片…… Powerbeats Pro 2 首发体验](https://sspai.com/post/96236)
-* [【2025-02-11】 手心里的精致美学：少数派法式手工皮具体验活动](https://sspai.com/post/96225)
-* [【2025-02-11】 社区速递 079 | 你没见过的社区文章、一周最热评、派友十二月买了啥](https://sspai.com/post/96235)
-* [【2025-02-11】 我在 2024 的春夏秋冬里，思考自由](https://sspai.com/post/96070)
-* [【2025-02-11】 梦回 98，一窥「前世」：Windows 98 宣传片中的微软](https://sspai.com/post/95547)
-* [【2025-02-11】 派早报：春节「两新」政策刺激消费 310 亿元，DeepSeek API 价格调高等](https://sspai.com/post/96221)
-* [【2025-02-10】 派评 | 近期值得关注的 App](https://sspai.com/post/96203)
-* [【2025-02-10】 城市漫步指南：行走在举世倾羡之城，伊斯坦布尔](https://sspai.com/post/95990)
+* [【2025-02-14】 本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/96359)
+* [【2025-02-14】 具透 Plus |  向 Chrome 133 学写提示词，随 Android 16 一起「登岛」](https://sspai.com/prime/story/inside-release-notes-250214)
+* [【2025-02-14】 胶片漂流计划｜我们用同一卷胶片捕捉了 4 座城市的光影](https://sspai.com/post/96339)
+* [【2025-02-14】 上班就像上刑？换上一套「打工水獭」键帽表达态度](https://sspai.com/post/96245)
+* [【2025-02-14】 装修容易踩坑？这是我的避坑方法论](https://sspai.com/post/96168)
+* [【2025-02-14】 派早报：Adobe 发布 Adobe Firefly 文生视频 AI 模型等](https://sspai.com/post/96326)
+* [【2025-02-13】 冷门但好读！当代硬汉派欧美侦探小说推荐](https://sspai.com/post/96275)
+* [【2025-02-13】 科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
+* [【2025-02-13】 从大厂设计师转行模型训练，聊聊我的裸辞感想](https://sspai.com/post/95956)
+* [【2025-02-13】 派早报：Perplexity 推出新版 Sonar 搜索模型等](https://sspai.com/post/96286)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-02-12 05:01:03
+:alarm_clock: 更新时间: 2025-02-15 05:00:58
