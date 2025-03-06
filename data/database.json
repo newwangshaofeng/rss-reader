@@ -925,13 +925,63 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "选择痛苦：渣马半马 2024 纪实",
+                "link": "https://sspai.com/post/96675",
+                "published": "2025-03-06"
+            },
+            {
+                "title": "派早报：Apple 发布两款新品、《刺客信条：影》确认本月登陆 Mac 等",
+                "link": "https://sspai.com/post/97039",
+                "published": "2025-03-06"
+            },
+            {
+                "title": "5 年过去了，用 iPad 当电脑的人现在怎么样了？",
+                "link": "https://sspai.com/post/96905",
+                "published": "2025-03-05"
+            },
+            {
+                "title": "为 AI 模型赋予「三头六臂」：MCP 服务实用指南",
+                "link": "https://sspai.com/prime/story/mcp-tutorial",
+                "published": "2025-03-05"
+            },
+            {
+                "title": "当 128G 开始成为历史：聊聊关于存储空间那点事",
+                "link": "https://sspai.com/post/96719",
+                "published": "2025-03-05"
+            },
+            {
+                "title": "从等人发牌到自己印牌：我的桌游设计新实践",
+                "link": "https://sspai.com/post/96648",
+                "published": "2025-03-05"
+            },
+            {
+                "title": "派早报：Apple 推出两款 iPad 新品等",
+                "link": "https://sspai.com/post/96994",
+                "published": "2025-03-05"
+            },
+            {
+                "title": "社区速递 082 | 你没见过的社区文章、一周最热评、派友一月购物大公开",
+                "link": "https://sspai.com/post/96966",
+                "published": "2025-03-04"
+            },
+            {
+                "title": "重新发现 1969 年的知识生产术：读《智识的生产技术》",
+                "link": "https://sspai.com/post/96855",
+                "published": "2025-03-04"
+            },
+            {
+                "title": "AI 如何协助我解决创作过程中遇到的编程问题",
+                "link": "https://sspai.com/post/96632",
+                "published": "2025-03-04"
+            },
             {
                 "title": "使用相机一年后，回过头看 iPhone 摄影",
                 "link": "https://sspai.com/prime/story/iphoneography-a-redux-of",
@@ -24363,7 +24413,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 10
     },
     {
         "id": 2,
