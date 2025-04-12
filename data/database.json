@@ -950,13 +950,23 @@
                 "published": "2021-10-08"
             }
         ],
-        "new_feeds": 1
+        "new_feeds": 0
     },
     {
         "id": 1,
         "title": "少数派",
         "url": "https://sspai.com/feed",
         "feeds": [
+            {
+                "title": "本周看什么 | 最近值得一看的 11 部作品",
+                "link": "https://sspai.com/post/98326",
+                "published": "2025-04-11"
+            },
+            {
+                "title": "彻底告别电池焦虑：旧手机再利用的直供电改造",
+                "link": "https://sspai.com/post/98174",
+                "published": "2025-04-11"
+            },
             {
                 "title": "致生成式内容背后无处可寻的你：谈谈 AI 辅助创作的伦理问题",
                 "link": "https://sspai.com/post/98164",
@@ -25078,7 +25088,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 4
+        "new_feeds": 2
     },
     {
         "id": 2,
