@@ -958,6 +958,11 @@
         "url": "https://sspai.com/feed",
         "feeds": [
             {
+                "title": "vivo X100 Ultra 陪我践行「城市散步学」的这一年",
+                "link": "https://sspai.com/post/98138",
+                "published": "2025-04-12"
+            },
+            {
                 "title": "本周看什么 | 最近值得一看的 11 部作品",
                 "link": "https://sspai.com/post/98326",
                 "published": "2025-04-11"
@@ -25088,7 +25093,7 @@
                 "published": "2021-10-20"
             }
         ],
-        "new_feeds": 2
+        "new_feeds": 1
     },
     {
         "id": 2,

@@ -3,7 +3,7 @@
 ## 来源分类
 
 * [阮一峰的网络日志](#阮一峰的网络日志)
-* [少数派](#少数派) 【+2】
+* [少数派](#少数派) 【+1】
 * [V2EX](#V2EX) 【+50】
 * [知乎每日精选](#知乎每日精选)
 * [好工具周刊](#好工具周刊)
@@ -35,6 +35,7 @@
     </summary>
 
 
+* [【2025-04-12】 vivo X100 Ultra 陪我践行「城市散步学」的这一年](https://sspai.com/post/98138)
 * [【2025-04-11】 本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/98326)
 * [【2025-04-11】 彻底告别电池焦虑：旧手机再利用的直供电改造](https://sspai.com/post/98174)
 * [【2025-04-11】 致生成式内容背后无处可寻的你：谈谈 AI 辅助创作的伦理问题](https://sspai.com/post/98164)
@@ -44,7 +45,6 @@
 * [【2025-04-10】 我的 Obsidian AI 三层级工作流](https://sspai.com/post/98106)
 * [【2025-04-10】 派早报：《爱、死、机》第四季将上线、《暗黑破坏神 III》国服回归等](https://sspai.com/post/98270)
 * [【2025-04-09】 用拼乐高的方式构建理想家具：可靠的铝型材设计指南](https://sspai.com/post/97738)
-* [【2025-04-09】 产品溢价 = 智商税？为什么我愿意为 20% 的体验提升花更多钱](https://sspai.com/post/98150)
 * [:arrow_forward: 全部文章](data/少数派.md)
 </details>
 
@@ -111,4 +111,4 @@
 ![build](https://github.com/LikaiLee/rss-reader/workflows/rss%20reader/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/likailee/rss-reader)
 ![pv](https://pageview.vercel.app/?github_user=likailee) <br>
-:alarm_clock: 更新时间: 2025-04-12 05:00:50
+:alarm_clock: 更新时间: 2025-04-13 05:06:31
